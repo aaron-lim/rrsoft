@@ -15,14 +15,14 @@ And implemented a new data warehouse ETL using Ruby and Star Schema (the old dat
 ### [Shoegal](http://www.shoegal.com)
 A company that sell high fashion shoe at fast fashion price
 
-##### Co-founder and coder @ Shoegal *2015 - present*
+##### Co-founder and coder @ *Shoegal 2015 - present*
 My partner and me build the site. We fully handle the technical and UX part
 
 
 ### [Foodiepon](http://www.foodiepon.com)
 A location-based app that focus on food. (Still not yet launched, enhancing the site based on feedbacks from shop owners)
 
-##### Co-founder and coder @ Foodiepon *2015 - present*
+##### Co-founder and coder @ *Foodiepon 2015 - present*
 My partner and me build the site. We fully handle the technical and UX part
 
 #### [Sam Media](http://www.sam-media.com)
