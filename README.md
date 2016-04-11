@@ -12,40 +12,68 @@ I am one of the main developer to build an integration test for booster.com's cr
 
 And implemented a new data warehouse ETL using Ruby and Star Schema (the old data warehouse was built only to serve ad hoc reports, and  use copy-paste-modify technique to serve different kind of reports)
 
+##### *Tech stack*
+ - Rails
+ - Mysql
+ - Sinatra(for ETL UI and toolings)
+
+
 ### [Shoegal](http://www.shoegal.com)
 *A company that sells high fashion shoe at fast fashion price*
+
 
 ##### Co-founder and coder @ *Shoegal 2015 - present*
 My partner and me build the site. We fully handle the technical and UX part
 
+##### *Tech stack*
+ - Rails
+ - React
+ - Mysql
 
 ### [Foodiepon](http://www.foodiepon.com)
 *A location-based app that focus on food. (Still not yet launched, enhancing the site based on feedbacks from shop owners)*
+
+##### *Tech stack*
+ - Rails
+ - React
+ - React Native
+ - Mysql
 
 ##### Co-founder and coder @ *Foodiepon 2015 - present*
 My partner and me build the site. We fully handle the technical and UX part
 
 #### [Sam Media](http://www.sam-media.com)
 *Digital marketing company that provides a wide range of mobile content services such as games, apps, mobile learning, videos, TV and quizzes*
+
 ##### Senior Software Developer @ *Sam media 2013 - 2015*
 I am one of the main developer for rewriting of the ads delivering system. The old system was in a condition that it needed a lots of ad hoc tweaking in code to serve all the 30 countries, those that have different regulations, which then cause the codebase to be splitted into different variant of it. My team and I created a system which is able to behave differently following the configuration set from admin UI to serve all the 30 countries, using one codebase
+
+##### *Tech stack*
+ - Php (main code for communicating with sms gateways)
+ - Mysql
+ - Angularjs (admin UI)
+ - Mongodb (admin UI)
+
 
 #### Freelance
 ##### Freelance coder *1998 - present*
 
-Wide range of projects I have involved in which includes:
+###### More recent projects
+ - Car portal site *using NodeJs, React and Mongodb*
 
- - On-demand maid booking/scheduling system (Uber-like system for maid services)
+ - On-demand laundry (Uber-like system for laundry) *Using Rails, React and PostgreSQL*
 
- - On-demand laundry (Uber-like system for laundry)
+###### Older projects
 
- - Gaming system using DirectX/C++, Android SDK
+ - On-demand maid booking/scheduling system (Uber-like system for maid services) *using Php and Angularjs*
 
- - MLM system
+ - Gaming system *using DirectX/C++, Android SDK*
 
- - Customer Relationship Management
+ - MLM system *using PHP*
 
- - Employee management
+ - Customer Relationship Management *using ASP*
+
+ - Employee management *using Delphi and MSSQL*
 
  - And other customized software based on my client's requirement
 
