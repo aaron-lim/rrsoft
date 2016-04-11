@@ -5,7 +5,7 @@
 # Experience
 
 ### [Booster](http://www.booster.com)
-Help campaign organizer to sell custom t-shirts and other custom apparel to support a cause, charity, club or school
+A company that helps campaign organizer to sell custom t-shirts and other custom apparel to support a cause, charity, club or school
 
 ##### Senior Software Developer @ *Booster 2015 - present*
 I am one of the main developer to build an integration test for booster.com's critical path using capybara and rspec
@@ -13,7 +13,7 @@ I am one of the main developer to build an integration test for booster.com's cr
 And implemented a new data warehouse ETL using Ruby and Star Schema (the old data warehouse was built only to serve ad hoc reports, and  use copy-paste-modify technique to serve different kind of reports)
 
 ### [Shoegal](http://www.shoegal.com)
-A company that sell high fashion shoe at fast fashion price
+A company that sells high fashion shoe at fast fashion price
 
 ##### Co-founder and coder @ *Shoegal 2015 - present*
 My partner and me build the site. We fully handle the technical and UX part
