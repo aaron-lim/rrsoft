@@ -47,7 +47,7 @@
 *A location-based app that focus on food. (Still not yet launched, enhancing the site based on feedbacks from shop owners)*
 
 ##### Co-founder and coder @ *Foodiepon 2015 - present*
-- Architecturing the ecosystem that brings most benefit to shop owners and customers.
+- Architecturing an ecosystem to create win-win situation for both customers and restaurants.
 
 - Fully handle the technical, and UX part of this project, as well as bringing in operation, and business ideas.
 
