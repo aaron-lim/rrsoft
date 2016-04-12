@@ -76,9 +76,9 @@
 ##### Freelance coder *1998 - present*
 
 ###### More recent projects
- - [MyMotor](http://mymotor.my) Buy and sell car online *using NodeJs, React and Mongodb*
+ - [MyMotor](http://mymotor.my) Buy and sell car online  *(using NodeJs, React and Mongodb)*
 
- - [MamaWosh](http://mamawosh.com) On-demand laundry (Uber-like system for laundry) *Using Rails, React, Redux and PostgreSQL*
+ - [MamaWosh](http://mamawosh.com) On-demand laundry (Uber-like system for laundry) *(Using Rails, React, Redux and PostgreSQL)*
 
 ###### Older projects
 
