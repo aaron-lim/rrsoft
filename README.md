@@ -66,7 +66,7 @@
 - I am the main developer responsible for rewriting ads delivering system. The old system was in a condition that need a lot of ad hoc tweaking in order to serve 30 countries, who have different regulations, so there were variants of the codebase for each countries. My team and I have created a unified system which is able to behave differently according to the configuration from admin UI for each countries
 
 ##### *Tech stack*
- - Php (main code for communicating with sms gateways)
+ - PHP (main code for communicating with sms gateways)
  - Mysql
  - Angularjs (admin UI)
  - Mongodb (admin UI)
@@ -82,7 +82,7 @@
 
 ###### Older projects
 
- - On-demand maid booking/scheduling system (Uber-like system for maid services) *using Php and Angularjs*
+ - On-demand maid booking/scheduling system (Uber-like system for maid services) *using PHP and Angularjs*
 
  - Gaming system *using DirectX/C++, Android SDK*
 
